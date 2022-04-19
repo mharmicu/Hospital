@@ -1,0 +1,1 @@
+<img src="{{ asset('/images/hospital-logo.png')}}" alt="" style="width:100px;">
